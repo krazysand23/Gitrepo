@@ -1,0 +1,1 @@
+{"uuid":"010644ea-2222-40ee-9316-47c484439a4e","name":"Default suite","children":["0f042dd6-8c12-48fa-bb57-a84878cfeb95"],"befores":[{"name":"zun","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1686647869138,"stop":1686647869162}],"afters":[],"start":1686647869044,"stop":1686647870571}

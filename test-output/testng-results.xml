@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-28T06:57:54Z" name="Default suite" finished-at="2023-06-28T06:57:55Z" duration-ms="1510">
+    <groups>
+    </groups>
+    <test started-at="2023-06-28T06:57:54Z" name="Default test" finished-at="2023-06-28T06:57:55Z" duration-ms="1510">
+      <class name="Tes.Driv">
+        <test-method signature="run()[pri:0, instance:Tes.Driv@2b43529a]" started-at="2023-06-28T06:57:54Z" name="run" finished-at="2023-06-28T06:57:55Z" duration-ms="814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+      </class> <!-- Tes.Driv -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
